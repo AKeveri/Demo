@@ -8,10 +8,10 @@ body {
       background-color: rgb(247, 243, 16);
   }
 h1 {
-    color: blue;
+    color: blue; border-style: outset;
 }
 h4 {
-    color: blue;
+    color: blue; border-style: inset;
 }
 p { 
     color: blue;
