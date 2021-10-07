@@ -9,7 +9,7 @@ h1 {
 }
 h4 {
     color: blue; border-style: inset; padding: 6px;
-    height: 20px; width: 400px;
+    height: 20px; width: 400px; 
 }
 p { 
     color: rgb(247, 243, 16); border: 2px solid blue; border-radius: 12px;
@@ -19,4 +19,7 @@ p {
 figure {
     color: blue;
 }  
+
+
+
   
