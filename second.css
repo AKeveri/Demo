@@ -3,6 +3,20 @@ div {
     top: -10px;
     left: 5px;
   }
-  
-  
+
+body {
+      background-color: rgb(247, 243, 16);
+  }
+h1 {
+    color: blue;
+}
+h4 {
+    color: blue;
+}
+p { 
+    color: blue;
+}  
+figure {
+    color: blue;
+}  
   
