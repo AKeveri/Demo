@@ -14,11 +14,15 @@ h4 {
 p { 
     color: rgb(247, 243, 16); border: 2px solid blue; border-radius: 12px;
     padding: 5px; margin: 5px 10px; background-color: blue;
-    height: 20px; width: 310px;
+    height: 20px; width: 310px; padding:
+    10px 10px 10px 10px;
 }  
 figure {
-    color: blue;
+    color: blue; padding: 150px 80px;
 }  
+img {
+    padding: 20px 10px 10px 350px;
+}
 
 
 
