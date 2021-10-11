@@ -1,1 +1,30 @@
+header {
+    
+    background-color: rgb(2, 2, 90);
+}
 
+nav {
+    
+    background-color: rgb(13, 235, 205);
+}
+
+section {
+
+    background-color: rgb(43, 98, 182);
+
+}
+
+article {
+
+    background-color: rgb(64, 101, 223);
+}
+
+aside {
+
+    background-color: darkcyan;
+}
+
+footer {
+
+    background-color: rgb(57, 55, 161);
+}
