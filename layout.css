@@ -1,6 +1,6 @@
 header {
     
-    background-color: rgb(2, 2, 90);
+    background-color: rgb(20, 20, 248); text-align: center;
 }
 
 nav {
@@ -10,23 +10,24 @@ nav {
 
 section {
 
-    background-color: rgb(43, 98, 182);
+    background-color: rgb(43, 98, 182); float: left;
 
 }
 
 article {
 
-    background-color: rgb(7, 78, 95);
+    background-color: rgb(7, 78, 95); float: left;
 }
 
 aside {
 
-    background-color: darkcyan;
+    background-color: darkcyan; float: rigth; padding: 80px;
 }
 
 footer {
 
-    background-color: rgb(57, 55, 161);
+    background-color: rgb(57, 55, 161); text-align: center;
+    padding: 30px;
 }
 
 body {
@@ -34,3 +35,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     }  
+
+    @media (max-width: 600px) {
+        nav, article {
+          width: 100%;
+          height: auto;
+        }
+      }
