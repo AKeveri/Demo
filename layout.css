@@ -16,7 +16,7 @@ section {
 
 article {
 
-    background-color: rgb(64, 101, 223);
+    background-color: rgb(7, 78, 95);
 }
 
 aside {
@@ -28,3 +28,9 @@ footer {
 
     background-color: rgb(57, 55, 161);
 }
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
