@@ -1,44 +1,47 @@
-header {
+.header {
     
     background-color: rgb(20, 20, 248); text-align: center;
 }
 
-nav {
+.nav {
     
     background-color: rgb(13, 235, 205);
 }
 
-section {
+.ul {
+    list-style-type: none;
+}
 
-    background-color: rgb(43, 98, 182); float: left;
+.section {
+
+    background-color: rgb(43, 98, 182); padding: 30px; 
+    float: left; width: 70%;
 
 }
 
-article {
+.article {
 
-    background-color: rgb(7, 78, 95); float: left;
+    background-color: rgb(7, 78, 95); padding: 30px; 
+    float: left; width: 70%;
 }
 
-aside {
+.aside {
 
-    background-color: darkcyan; float: rigth; padding: 80px;
+    background-color: darkcyan; padding: 30px; 
+    width: 30%; 
 }
 
-footer {
+.footer {
 
     background-color: rgb(57, 55, 161); text-align: center;
-    padding: 30px;
+    padding: 30px; 
 }
 
-body {
+.body {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    }  
+    } 
 
-    @media (max-width: 600px) {
-        nav, article {
-          width: 100%;
-          height: auto;
-        }
-      }
+
+
