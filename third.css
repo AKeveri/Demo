@@ -27,4 +27,11 @@ li a {
     color: black;
 }
 
+div {
+    text-align: center; background-color: black; color: white;
+    margin: 0%; position: fixed ; bottom:0% ; width: 100%;
+    font-size: 10px;
+
+}
+
 
