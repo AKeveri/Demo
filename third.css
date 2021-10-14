@@ -1,1 +1,10 @@
 
+h1 {
+    background-color: black; color: white;
+    text-align: center; padding: 25px;
+}
+
+h4 {
+    background-color: grey; color: white;
+    text-align: center; padding: 10px;
+}
