@@ -13,11 +13,17 @@ ul {
     float:  left; width: 15%; position: fixed;
     background-color: lightgrey; list-style-type: none;
     overflow: auto; height: 100%; margin: 0%;
+    padding-top: 150px;
 }
 
 section {
-   float: right; width: 70%; margin: 0%;    
+   float: right; width: 70%; margin: 0%;  padding-top: 100px;
+   padding-right: 60px;  
     
+}
+
+li a {
+    padding: 20px; display: block; text-decoration: none;
 }
 
 
