@@ -1,1 +1,21 @@
 
+.row {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: rgb(90, 88, 88);
+}
+
+
+h1 {
+    color:whitesmoke ; text-align: center;
+    padding: 25px;
+
+}
+
+div {
+    padding: 15px;
+}
+
