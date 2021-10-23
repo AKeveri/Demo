@@ -1,1 +1,11 @@
 
+a {
+    color:  grey;
+}
+
+.container {
+    box-sizing: border-box; background-color: rgb(222, 223, 222);
+}
+
+
+   
