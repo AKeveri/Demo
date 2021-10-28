@@ -11,10 +11,12 @@ a {
 .col-sm-6 {
     background-color: rgb(197, 196, 196);
     
+    
 }
 
 h1 {
-    text-align: center ; font-size: 3em;
+    text-align: center ; font-size: 4em;
+    
     
 }
 
@@ -25,6 +27,12 @@ img { padding: 34px;
 .col-sm-8 {
     padding: 100px;
 }
+
+.field {
+    display:inline-block;
+}
+
+
 
 
 
