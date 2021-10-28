@@ -1,6 +1,12 @@
 table, th, td {
     border: 1px solid black; padding: 5px;
+    background-color: rgb(243, 243, 243);
     
+    
+}
+
+th {
+    color: rgb(235, 72, 235);
 }
 
 textarea{
@@ -11,6 +17,20 @@ textarea{
     display: inline-block;
 }
 
-textarea {
-    padding-top: 20px;
+.vihreä {
+    color:green;
 }
+
+.punainen {
+    color: red;
+}
+
+.sininen {
+    color: blue;
+}
+
+.keltainen {
+    color: rgb(192, 192, 0);
+}
+
+
