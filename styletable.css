@@ -6,3 +6,11 @@ table, th, td {
 textarea{
     width: 80;
 }
+
+.field{
+    display: inline-block;
+}
+
+textarea {
+    padding-top: 20px;
+}
