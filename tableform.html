@@ -52,12 +52,18 @@
     <h2>Form</h2>
 
     <form>
-      <label for="fname">First name:</label><br>
-      <input type="text" id="fname" name="fname" required><br>
-      <label for="lname">Last name:</label><br>
-      <input type="text" id="lname" name="lname" required><br>
-      <label for="email">Email adress:</label><br>
-      <input type="text" id="email" name="email" required><br><br>
+      <fieldset class="field">
+        <legend>Required info</legend>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" required><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" required><br>
+        <label for="email">Email adress:</label><br>
+        <input type="text" id="email" name="email" required><br><br>
+
+
+      </fieldset> 
+      <br><br> 
 
       <textarea name="message" rows="4" ></textarea>
       <br><br>
