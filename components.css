@@ -8,8 +8,9 @@ a {
    padding: 100px;
 }
 
-.col-sm-6 {
+.col-sm-7 {
     background-color: rgb(197, 196, 196);
+    text-align: center; 
     
     
 }
@@ -28,11 +29,9 @@ img { padding: 34px;
     padding: 100px;
 }
 
-.field {
-    display:inline-block;
+.otsikko {
+    float: inline-start;
 }
-
-
 
 
 
