@@ -1,17 +1,25 @@
+
+table {
+   margin-left: 20px; margin-top: 55px;
+}
+
+
+
 table, th, td {
     border: 1px solid black; padding: 5px;
     background-color: rgb(243, 243, 243);
-    
+    float: left; width: 30%;
+    text-align: center;
+   
     
 }
+
+
 
 th {
     color: rgb(235, 72, 235);
 }
 
-textarea{
-    width: 80;
-}
 
 .field{
     display: inline-block;
@@ -32,5 +40,24 @@ textarea{
 .keltainen {
     color: rgb(192, 192, 0);
 }
+
+
+form {
+    float: right; width: 50%; 
+}
+
+h1 {
+    text-align: center; padding: 15px;
+}
+
+h2 {
+    padding-left: 185px;
+}
+
+textarea {
+    width: 200px;
+}
+
+
 
 
