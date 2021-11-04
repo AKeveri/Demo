@@ -27,3 +27,16 @@ h2 {
 #Linkki2 {
     padding-top: 40px;
 }
+a:visited {
+    color: black; 
+}
+a:hover {
+   transition: all 1.5s; color: red;
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: greenyellow;
+        color: ivory;
+    }
+}
