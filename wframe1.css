@@ -19,3 +19,24 @@ a {
     padding-top: 90px; padding-left: 75px;
 }
 
+h6 {
+    padding-top: 50px; padding-left: 30px;
+}
+
+#välineitä {
+    padding-top: 40px;
+}
+
+p {
+    color: rgb(187, 186, 187);
+}
+
+h2 {
+    font-size: 200%;
+}
+footer {
+    padding-top: 40px; text-align: center;
+    color: rgb(148, 148, 148);
+
+}
+
