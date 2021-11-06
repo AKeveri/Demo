@@ -6,3 +6,31 @@ h4 {
     padding-top: 100px; padding-left: 75px;
 
 }
+
+#espoo {
+    padding-top: 60px; padding-left: 75px;
+ }
+
+ #muu {
+    padding-top: 90px; padding-left: 75px;
+}
+
+ a {
+    font-size: 120%; text-decoration: none;
+}
+
+#välineitä {
+    padding-top: 60px;
+}
+
+p {
+    color: rgb(187, 186, 187);
+}
+
+h2 {
+    font-size: 200%;
+}
+
+#muut {
+    padding-top: 90px; padding-left: 120px;
+}
