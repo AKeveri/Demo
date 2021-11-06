@@ -21,7 +21,11 @@ li {
 }
 
 #massa {
-    padding-top: 90px; padding-left: 75px;
+    padding-top: 55px; padding-left: 75px;
+}
+
+#muu {
+    padding-top: 55px; padding-left: 75px;
 }
 
 h6 {
@@ -47,5 +51,9 @@ footer {
 
 ul {
     list-style-type: none;
+}
+
+img {
+    width: 400px; height: 300px;
 }
 
