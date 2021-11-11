@@ -11,7 +11,12 @@ h4 {
    padding-top: 18px; padding-left: 75px;
 }
 
-a {
+#Linkkilista a {
+    font-size: 120%; text-decoration: none;
+   
+}
+
+#Linkkilista1 a {
     font-size: 120%; text-decoration: none;
    
 }
@@ -53,7 +58,49 @@ ul {
     list-style-type: none;
 }
 
-img {
+.img123 {
     width: 400px; height: 300px;
+}
+
+nav {
+    padding-left: 15px;
+}
+
+a:hover {
+    transition: all 1.5s; color: red; font-size: 120%;
+}
+
+#clockDisplay {
+    font-family: arial;
+    font-weight: bold;
+    border: 1px solid;
+    width: 340px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 35px;
+    position: absolute; right: 10px;
+    
+}
+
+#opiskelija {
+    width:250px; height:200px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+#Kuva-opiskelija {
+    padding-top: 40px;
+}
+
+#otsikko-opiskelija {
+    padding-top: 60px; padding-left: 50px;
+}
+
+h6 {
+    font-size: 150%; font-family: garamond, serif;
 }
 
