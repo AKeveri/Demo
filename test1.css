@@ -11,12 +11,7 @@ h4 {
    padding-top: 18px; padding-left: 75px;
 }
 
-#Linkkilista a {
-    font-size: 120%; text-decoration: none;
-   
-}
-
-#Linkkilista1 a {
+.linkkilista ul li a {
     font-size: 120%; text-decoration: none;
    
 }
