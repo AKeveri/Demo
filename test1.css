@@ -1,0 +1,59 @@
+h1 {
+    padding-top: 60px; padding-left: 270px;
+}
+
+h4 { 
+    padding-top: 100px; padding-left: 75px;
+
+}
+
+#sisä {
+   padding-top: 18px; padding-left: 75px;
+}
+
+a {
+    font-size: 120%; text-decoration: none;
+   
+}
+
+li {
+    padding-top: 20px;
+}
+
+#massa {
+    padding-top: 55px; padding-left: 75px;
+}
+
+#muu {
+    padding-top: 55px; padding-left: 75px;
+}
+
+h6 {
+    padding-top: 50px; padding-left: 30px;
+}
+
+#välineitä {
+    padding-top: 40px;
+}
+
+p {
+    color: rgb(187, 186, 187);
+}
+
+h2 {
+    font-size: 200%;
+}
+footer {
+    padding-top: 40px; text-align: center;
+    color: rgb(148, 148, 148);
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 400px; height: 300px;
+}
+
