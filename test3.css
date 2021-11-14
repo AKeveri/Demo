@@ -18,6 +18,14 @@ h2 {
     padding-top: 60px; padding-left: 250px;
 }
 
+h6 {
+    text-align: center; padding: 30px;
+}
+
 #Otsikko {
     padding-left: 60px; padding-top: 60px;
+}
+
+p{
+    padding-left: 20px; padding-right: 13px;
 }
